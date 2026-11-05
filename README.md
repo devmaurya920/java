@@ -36,10 +36,12 @@ Whether you are a beginner taking your first steps or someone brushing up on fun
 ```text
 📦 java/
 ├── 📁 JAVA/                     # Java source files
-│   └── 📄 perfect_num.java      # Check perfect numbers in a given range
+│   ├── 📄 perfect_num.java      # Check perfect numbers in a given range
+│   └── 📄 ...                   # More Java programs and logic
 ├── 📁 PYTHON/                   # Python source files
 │   ├── 📄 armstrong.py          # Armstrong number checker
-│   └── 📄 pattern.py            # Pattern generation programs
+│   ├── 📄 pattern.py            # Pattern generation programs
+│   └── 📄 ...                   # More Python scripts and algorithms
 ├── 📄 LICENSE                   # MIT License
 └── 📄 README.md                 # Project documentation & guidelines
 ```
