@@ -4,7 +4,7 @@ class Tokens {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a string: ");
         String str = sc.nextLine();
-        StringTokenizer st = new StringTokenizer(str, " ");
+        StringTokenizer st = new StringTokenizer(str, " "); 
         String Lword = "";
         String temp = "";
         int l = 0;
