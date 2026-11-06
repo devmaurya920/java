@@ -8,7 +8,7 @@ public class chart {
         s1 = Character.isUpperCase(ch) ;
         s1 = Character.isLowerCase(ch) ;
         s1 = Character.isLetterOrDigit(ch) ;
-        s1 = Character.isWhitespace(ch); // if ch == ' ' 
+        s1 = Character.isWhitespace(ch); // if ch == ' ' fifjfi 
 
         sc = Character.toLowerCase(ch);
         sc = Character.toUpperCase(ch);
