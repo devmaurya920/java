@@ -23,7 +23,7 @@ class arr1 {
                     t++;
             }
             if (t == 0) {
-                b[i] = a[i];
+                b[count] = a[i];
                 count++;
             }
         }
