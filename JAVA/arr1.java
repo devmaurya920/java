@@ -13,6 +13,7 @@ class arr1 {
         for (int i = 0; i < sz; i++)
             System.out.print(a[i] + " ");
         System.out.println();
+
         int count = 0;
         int b[] = new int[sz];
         int t = 0;
